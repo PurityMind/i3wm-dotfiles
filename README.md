@@ -14,7 +14,8 @@ this is my dotfiles for i3wm idk
  alacritty,
  fastfetch,
 
- polybar
+ polybar,
+ feh
 
 # **Installation**
 
