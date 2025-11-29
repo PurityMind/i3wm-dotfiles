@@ -5,7 +5,7 @@ this is my dotfiles for i3wm idk
 
 # **Used software**
 ```
- i3wm, picom, rofi, dunst, alacritty, fastfetch, polybar, feh
+ i3wm, picom, rofi, dunst, alacritty, fastfetch, polybar, feh, flameshot
 ```
 
 # **Installation**
