@@ -1,12 +1,12 @@
 # i3wm-dotfiles
 this is my dotfiles for i3wm idk
 
-<img width="1599" height="899" alt="2025-11-29_21-53" src="https://github.com/user-attachments/assets/21649a60-b826-4482-b89a-5cdce2ad30f0" />
+<img width="1600" height="900" alt="2026-01-25_14-42" src="https://github.com/user-attachments/assets/ba6918a3-66fa-47de-a580-44f1be0dbe67" />
 
 
 # **Used software**
 ```
- i3wm, picom, rofi, dunst, alacritty, fastfetch, polybar, feh, flameshot
+ i3wm, picom, rofi, dunst, alacritty, fastfetch, polybar, feh, flameshot, conky
 ```
 # **Used font in alacritty**
 ```
