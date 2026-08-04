@@ -26,3 +26,5 @@ sudo chmod +x ~/.config/polybar/launch.sh
 ```
 
 # **And done!**
+___
+как всегда залупа брат
